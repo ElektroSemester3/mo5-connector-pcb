@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
+%TF.CreationDate,2024-01-16T15:46:26+01:00*%
+%TF.ProjectId,mo5-connector-pcb,6d6f352d-636f-46e6-9e65-63746f722d70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2024-01-16 15:46:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X125076976Y-52070000D02*
+X175241976Y-52070000D01*
+X175241976Y-105410000D01*
+X125076976Y-105410000D01*
+X125076976Y-52070000D01*
+M02*
